@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote name="Andra297"
+		fetch="https://github.com/Andra297"
+		revision="los14.1" />
+
+	<remote name="Andra297"
+		fetch="https://github.com/Andra297"
+		revision="master" />
+
+	
+	<project path="device/meizu/m2note" name="nougat_device_meizu_m2note" remote="Andra297" revision="los-14.1"  />
+	<project path="kernel/meizu/m2note" name="android_kernel_meizu_m2note" remote="Andra297" revision="master" />
+	<project path="vendor/meizu/m2note" name="android_vendor_meizu_m2note" remote="Andra297" />
+</manifest>
